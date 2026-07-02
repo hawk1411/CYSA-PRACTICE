@@ -1,9 +1,0 @@
-
-| Framework Name | Description / Usage | MCQ Keywords |
-| :--- | :--- | :--- |
-| **NIST SP 800-53** | A document providing security and privacy controls for **federal information systems** and organizations. | "18 families of controls," "Technical, Operational, and Managerial classes". |
-| **ISO/IEC 27001** | An **international standard** and proprietary framework for specifying requirements for an information security management system. | "International standard," "Proprietary," "Requirements for ISMS". |
-| **Lockheed Martin Kill Chain** | Describes the **stages** by which a threat actor progresses a network intrusion. | "7 steps: Recon, Weaponization, Delivery, Exploitation, Installation, C2, Actions on Objectives". |
-| **MITRE ATT&CK** | A knowledge base listing and explaining specific **adversary tactics, techniques, and procedures** (TTPs). | "Adversary behaviors," "Knowledge base of tactics/techniques". |
-| **Diamond Model** | A framework for analyzing incidents by exploring relationships between four core features: **adversary, capability, infrastructure, and victim**. | "Relationships between core features," "Meta-features". |
-| **NIST Cybersecurity Framework (CSF)** | A **risk-based framework** focused on IT security over IT service provision. | "Identify, Protect, Detect, Respond, and Recover," "Core, Tiers, and Profiles". |
